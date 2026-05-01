@@ -1,4 +1,4 @@
-# browseyreloaded - The extra-private AI-powered web browser.
+# BrowseyReloaded - The extra-private AI-powered web browser.
 A complete rewrite of Browsey written in Swift instead of Python (see https://github.com/jacobStuff/browsey)
 
 **Version 0.1 - Open Beta**
