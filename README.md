@@ -79,7 +79,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## License
 
-GNU GPL (go to [LICENSE.md](LICENSE.md) for the full license)
+GNU GPL (go to [LICENSE](LICENSE) for the full license)
 
 ## Support
 
